@@ -14,8 +14,8 @@ import os
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # ==================== 核心配置 ====================
-TOKEN = "8617895746:AAHAkmHi3ibyeTf3ACQ6s2IrGfQmYGg7z-w"
-WEB_URL = "https://laodi-888gh.onrender.com"
+TOKEN = "8617895746:AAEJ16UKpowvM95SqAuO11LZmge6YABhL8Y"
+WEB_URL = "https://laodi-888jf.onrender.com"
 PORT = int(os.environ.get('PORT', 8080))
 
 # 创始超级管理员账户ID（接收买家审核通知和开通按钮）
