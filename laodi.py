@@ -14,7 +14,7 @@ import os
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # ==================== 核心配置 ====================
-TOKEN = "8617895746:AAFXXaIPJpY1GE_3X4WDkc82TJf1unBm9v4"
+TOKEN = "8617895746:AAHAkmHi3ibyeTf3ACQ6s2IrGfQmYGg7z-w"
 WEB_URL = "https://laodi-888gh.onrender.com"
 PORT = int(os.environ.get('PORT', 8080))
 
